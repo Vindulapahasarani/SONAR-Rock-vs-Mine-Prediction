@@ -1,4 +1,5 @@
-SONAR Rock vs Mine Prediction
+#SONAR Rock vs Mine Prediction
+
 This project focuses on building a machine learning model to classify whether an object is a rock or a mine based on SONAR data. SONAR (Sound Navigation and Ranging) data provides the frequency response of objects, which is used in this project to differentiate between rocks and mines (metal cylinders). The classification task is crucial in naval mine detection to prevent underwater threats.
 
 Project Overview
@@ -10,6 +11,7 @@ Feature Selection: Analyzing the most relevant features for improving model accu
 Model Selection: Comparing various machine learning algorithms such as Logistic Regression, Decision Trees, Random Forests, and Support Vector Machines (SVM).
 Evaluation: Using metrics such as accuracy, precision, recall, and F1-score to assess model performance.
 Model Deployment (optional): Implementing the model into a live system for real-time prediction.
+
 Technologies Used:
 Python: Programming language used for data manipulation and model building.
 Scikit-learn: For implementing machine learning models.
